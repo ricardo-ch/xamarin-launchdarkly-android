@@ -163,3 +163,4 @@ Resource.designer.cs
 /CodeMaid.config
 Components/
 /.idea/
+*.LaunchDarkly.Android.2.0.5.nupkg
