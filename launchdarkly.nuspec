@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Ricardo.LaunchDarkly.Android</id>
+        <version>2.0.5</version>
+        <description>Xamarin Binding Library - LaunchDarkly Android SDK</description>
+        <authors>Adrian Hoitan</authors>
+        <owners>ricardo.ch AG</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>LaunchDarkly Android</title>
+        <releaseNotes>LaunchDarkly android SDK v2.0.5</releaseNotes>
+        <summary>Xamarin Binding Library - LaunchDarkly Android SDK</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/ricardo-ch/xamarin-launchdarkly-android/</projectUrl>
+        <copyright>Copyright (c) 2017 ricardo.ch AG</copyright>
+        <tags>Xamarin.Android, launchdarkly</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Ricardo.LaunchDarkly.Android/Ricardo.LaunchDarkly.Android/bin/Release/Ricardo.LaunchDarkly.Android.dll" target="lib/MonoAndroid10/Ricardo.LaunchDarkly.Android.dll" />
+    </files>
+</package>
