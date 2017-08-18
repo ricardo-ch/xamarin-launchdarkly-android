@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ricardo.LaunchDarkly.Android", "Ricardo.LaunchDarkly.Android\Ricardo.LaunchDarkly.Android.csproj", "{37E0B1DA-A4B7-4161-91A9-65BBB336CC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ricardo.LaunchDarkly.Android.Sample", "Ricardo.LaunchDarkly.Android.Sample\Ricardo.LaunchDarkly.Android.Sample.csproj", "{2B8FA766-3674-421F-BB7A-2E1890B860CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E0B1DA-A4B7-4161-91A9-65BBB336CC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E0B1DA-A4B7-4161-91A9-65BBB336CC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E0B1DA-A4B7-4161-91A9-65BBB336CC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E0B1DA-A4B7-4161-91A9-65BBB336CC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8FA766-3674-421F-BB7A-2E1890B860CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8FA766-3674-421F-BB7A-2E1890B860CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8FA766-3674-421F-BB7A-2E1890B860CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8FA766-3674-421F-BB7A-2E1890B860CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
